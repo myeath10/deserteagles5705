@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+
+
+body{
+    background-image: url(Imagenes/FIS_CRESCENDO_Logo_Horizontal_Full\ Color\ Reverse\ RGB.jpg);
+    background-size: 100%;
+    
+}
+
+header{
+    background-color: rgba(0, 100, 0, 0.504);
+
+}
+
+header nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+
+
+}
+header nav a{
+    padding: 10px;
+    font-size: 18px;
+    color: black;
+    text-decoration: none;
+    margin-top: 15px;
+}
+.fb{
+    padding: 10px;
+    width: 80px;
+}
+#pie{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: justify;
+    margin-right: 15px;
+}
+
+#LogoDE5705{
+    width: 90px;
+    padding: 10px;
+}
+
+.encabezado{
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(248, 244, 244);
+    text-decoration: none;
+    margin-top: 15px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
